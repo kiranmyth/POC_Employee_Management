@@ -1,0 +1,12 @@
+C:\Users\kiran\source\repos\POC_Employee_Management\Emp_BAL\bin\Debug\net6.0\Emp_BAL.deps.json
+C:\Users\kiran\source\repos\POC_Employee_Management\Emp_BAL\bin\Debug\net6.0\Emp_BAL.dll
+C:\Users\kiran\source\repos\POC_Employee_Management\Emp_BAL\bin\Debug\net6.0\Emp_BAL.pdb
+C:\Users\kiran\source\repos\POC_Employee_Management\Emp_BAL\obj\Debug\net6.0\Emp_BAL.csproj.AssemblyReference.cache
+C:\Users\kiran\source\repos\POC_Employee_Management\Emp_BAL\obj\Debug\net6.0\Emp_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiran\source\repos\POC_Employee_Management\Emp_BAL\obj\Debug\net6.0\Emp_BAL.AssemblyInfoInputs.cache
+C:\Users\kiran\source\repos\POC_Employee_Management\Emp_BAL\obj\Debug\net6.0\Emp_BAL.AssemblyInfo.cs
+C:\Users\kiran\source\repos\POC_Employee_Management\Emp_BAL\obj\Debug\net6.0\Emp_BAL.csproj.CoreCompileInputs.cache
+C:\Users\kiran\source\repos\POC_Employee_Management\Emp_BAL\obj\Debug\net6.0\Emp_BAL.dll
+C:\Users\kiran\source\repos\POC_Employee_Management\Emp_BAL\obj\Debug\net6.0\refint\Emp_BAL.dll
+C:\Users\kiran\source\repos\POC_Employee_Management\Emp_BAL\obj\Debug\net6.0\Emp_BAL.pdb
+C:\Users\kiran\source\repos\POC_Employee_Management\Emp_BAL\obj\Debug\net6.0\ref\Emp_BAL.dll
